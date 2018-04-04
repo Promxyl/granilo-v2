@@ -1,0 +1,26 @@
+<svg width="52" height="50" viewBox="0 0 52 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(1593 -2952)">
+<g id="Group">
+<g id="Canvas">
+<g id="Facebook">
+<g id="back">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-1592.17 2952)" fill="#3B5998"/>
+</g>
+</g>
+<g id="Shape">
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(-1572.65 2964.5)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 25C 0 11.1929 11.3996 0 25.4617 0C 39.5238 0 50.9235 11.1929 50.9235 25C 50.9235 38.8071 39.5238 50 25.4617 50C 11.3996 50 0 38.8071 0 25Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 8.59495 27.1994L 8.59495 13.5982L 12.4189 13.5982L 12.9257 8.91108L 8.59495 8.91108L 8.60149 6.56511C 8.60149 5.34264 8.7198 4.68762 10.5081 4.68762L 12.8986 4.68762L 12.8986 0L 9.07414 0C 4.48035 0 2.86346 2.27374 2.86346 6.09747L 2.86346 8.91158L 0 8.91158L 0 13.5987L 2.86346 13.5987L 2.86346 27.1994L 8.59495 27.1994Z"/>
+</defs>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="692" height="113" viewBox="0 0 692 113" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 3</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(1237 -2439)">
+<g id="Group 3">
+<g id="Rectangle 21.1">
+<use xlink:href="#path0_fill" transform="translate(-1128 2496)" fill="#C4C4C4"/>
+</g>
+<g id="Ellipse">
+<use xlink:href="#path1_fill" transform="translate(-1237 2439)" fill="#4F4F4F"/>
+</g>
+<g id="4">
+<use xlink:href="#path2_fill" transform="translate(-1200 2459)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 583 0L 583 5L 0 5L 0 0Z"/>
+<path id="path1_fill" d="M 113 56.5C 113 87.7041 87.7041 113 56.5 113C 25.2959 113 0 87.7041 0 56.5C 0 25.2959 25.2959 0 56.5 0C 87.7041 0 113 25.2959 113 56.5Z"/>
+<path id="path2_fill" d="M 20.3729 39.7825L 20.3729 23.53C 20.3729 23.0533 20.3912 22.5308 20.4279 21.9625C 20.4645 21.3942 20.5195 20.8167 20.5929 20.23L 6.23785 39.7825L 20.3729 39.7825ZM 30.6304 39.7825L 30.6304 42.5875C 30.6304 42.8808 30.5387 43.1283 30.3554 43.33C 30.1904 43.5317 29.9245 43.6325 29.5579 43.6325L 24.6629 43.6325L 24.6629 54L 20.3729 54L 20.3729 43.6325L 2.88285 43.6325C 2.51618 43.6325 2.19535 43.5317 1.92035 43.33C 1.66368 43.11 1.49868 42.8442 1.42535 42.5325L 0.930352 40.03L 20.0979 14.5925L 24.6629 14.5925L 24.6629 39.7825L 30.6304 39.7825Z"/>
+</defs>
+</svg>

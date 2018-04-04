@@ -1,0 +1,50 @@
+<svg width="103" height="74" viewBox="0 0 103 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 3</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(886 -1646)">
+<g id="Group 3">
+<g id="Group 2">
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-886 1646)" fill="#13988A"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(-830.209 1689.53)" fill="#13988A"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(-886 1716.2)" fill="#13988A"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(-886 1703.14)" fill="#13988A"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(-886 1690.08)" fill="#13988A"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 -5.97804e-07L 0 30.4704L 103 30.4704L 103 -5.97804e-07L 0 -5.97804e-07ZM 99.7812 27.2056L 3.21875 27.2056L 3.21875 3.26481L 99.7812 3.26481L 99.7812 27.2056Z"/>
+<path id="path1_fill" d="M 5.89371e-07 0L 5.89371e-07 30.4704L 47.2094 30.4704L 47.2094 0L 5.89371e-07 0ZM 43.9906 27.2056L 3.21875 27.2056L 3.21875 3.26481L 43.9906 3.26481L 43.9906 27.2056Z"/>
+<path id="path2_fill" d="M 47.2094 0L 0 0L 0 3.26481L 47.2094 3.26481L 47.2094 0Z"/>
+</defs>
+</svg>
